@@ -1,12 +1,12 @@
 ---
 path: awesome-images
-title: Awesome Images
-date: 2020-06-06T01:22:55.506Z
+title: Awesome Images 2
+date: 2020-06-16T01:22:55.506Z
 description: Fix for gatsby-plugin-mdx and gatsby-remark-images
 ---
 ![Great Gatsby](mobile.jpg "Great Gatsby")
 
-## Netlify CMS Media Configuration
+## Netlify CMS Media Configuration (2)
 
 First, in your `static/admin/config.yml`, make sure you have the following:
 
